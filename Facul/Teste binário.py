@@ -6,3 +6,5 @@ if a+b == 0.3:
 else:
     print("Não acredito")
     print(a+b)
+    print("O Akita tinha razão")
+
